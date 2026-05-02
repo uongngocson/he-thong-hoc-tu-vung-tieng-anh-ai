@@ -1,5 +1,53 @@
 # LEARN24HVOCAB.ONLINE
 
+<p align="center">
+  <img src="./docs/images/hero.png" alt="Earthworm Hero Banner" width="100%" />
+</p>
+
+<p align="center">
+  Giao diện Learn24Vocab - nền tảng học từ vựng tiếng Anh trực quan, hiện đại.
+</p>
+
+## Screenshots
+
+### Danh sách khóa học
+
+<p align="center">
+  <img src="./docs/images/courses.png" alt="Danh sach khoa hoc tu vung" width="100%" />
+</p>
+
+### Chế độ học Flashcard
+
+<p align="center">
+  <img src="./docs/images/flashcard.png" alt="Che do hoc flashcard" width="100%" />
+</p>
+
+### Chế độ Quiz trắc nghiệm
+
+<p align="center">
+  <img src="./docs/images/quiz-mode.png" alt="Che do quiz trac nghiem" width="100%" />
+</p>
+
+### Chế độ học gõ từ (Typing)
+
+<p align="center">
+  <img src="./docs/images/typing-mode.png" alt="Che do hoc go tu typing" width="100%" />
+</p>
+
+### Hồ sơ học tập cá nhân
+
+<p align="center">
+  <img src="./docs/images/profile-overview.png" alt="Ho so hoc tap ca nhan" width="100%" />
+</p>
+
+### Bảng điều khiển trung tâm từ vựng
+
+<p align="center">
+  <img src="./docs/images/learning-dashboard.png" alt="Bang dieu khien trung tam tu vung" width="100%" />
+</p>
+
+
+
 Nền tảng học từ vựng với kiến trúc tách lớp rõ ràng: API backend, client web, dashboard quản trị, cùng quy trình triển khai production bằng Docker Compose.
 
 README này đóng vai trò **nguồn tài liệu chính thức** cho đội phát triển và vận hành: từ chạy local, build image, CI/CD, triển khai server, cấu hình domain, đến xử lý sự cố thường gặp.
