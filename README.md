@@ -1,4 +1,4 @@
-# Earthworm
+# LEARN24HVOCAB.ONLINE
 
 Nền tảng học từ vựng với kiến trúc tách lớp rõ ràng: API backend, client web, dashboard quản trị, cùng quy trình triển khai production bằng Docker Compose.
 
